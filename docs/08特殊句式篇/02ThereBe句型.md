@@ -62,7 +62,7 @@
 
  房间里有人吗?  
 
-  There is abedin the room， is n't  there?  
+  There is abedin the room， isn't  there?  
 
 房间里有一张床，不是吗?  
 
@@ -262,7 +262,7 @@ There is to be a lecture at the school hall.
 
   操场上有个男孩。  
 
-  There has been alot of rain this month.  
+  There has been a lot of rain this month.  
 
 这个月雨水很多。  
 
@@ -286,7 +286,7 @@ There is to be a lecture at the school hall.
 
 >   这种句式中的及物动词(动词不定式)也可改成被动式，意为“(没)有……要做”。  
 
-There is alot of work to do(to be done)  
+There is a lot of work to do(to be done)  
 
 有许多工作要做。  
 
@@ -444,7 +444,7 @@ There is alot of work to do(to be done)
 
 ###   (14) there being/having been是独立主格结构， 在句中作状语。
 
-  There having been no rain for along time， the ground was burned by the sun.  
+  There having been no rain for a long time， the ground was burned by the sun.  
 
 好长时间未下雨，大地都被太阳烤焦了。  
 
@@ -556,7 +556,7 @@ There appears to be no one who can answer  this question.
 
 洗衣机一定出了毛病，因为它运转不正常。  
 
-  There ought n't to be alot of disagreement  in our views.  
+  There oughtn't to be a lot of disagreement  in our views.  
 
 我们的看法不应该存在太大的分歧。  
 
@@ -564,6 +564,6 @@ There appears to be no one who can answer  this question.
 
 在播放了这些乱七八糟的歌曲之后，可能会放几首好歌。  
 
-  If the power had n't been cutoff so quickly， there could  have been a big fire.
+  If the power hadn't been cutoff so quickly， there could  have been a big fire.
 
   要不是迅速切断电源，可能会引发一场大火。  
